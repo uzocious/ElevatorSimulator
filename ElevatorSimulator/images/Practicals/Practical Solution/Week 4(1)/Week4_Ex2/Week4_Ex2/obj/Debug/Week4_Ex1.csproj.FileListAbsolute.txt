@@ -1,0 +1,8 @@
+H:\Solution-PracticalFour-Part1-WindowsProgramming\Week4_Ex1\Week4_Ex1\bin\Debug\Week4_Ex1.exe.config
+H:\Solution-PracticalFour-Part1-WindowsProgramming\Week4_Ex1\Week4_Ex1\bin\Debug\Week4_Ex1.exe
+H:\Solution-PracticalFour-Part1-WindowsProgramming\Week4_Ex1\Week4_Ex1\bin\Debug\Week4_Ex1.pdb
+H:\Solution-PracticalFour-Part1-WindowsProgramming\Week4_Ex1\Week4_Ex1\obj\Debug\Week4_Ex1.exe
+H:\Solution-PracticalFour-Part1-WindowsProgramming\Week4_Ex1\Week4_Ex1\obj\Debug\Week4_Ex1.pdb
+H:\Week 4\Week4_Ex2\Week4_Ex1\bin\Debug\Week4_Ex1.exe.config
+H:\Week 4\Week4_Ex2\Week4_Ex1\obj\Debug\Week4_Ex1.exe
+H:\Week 4\Week4_Ex2\Week4_Ex1\obj\Debug\Week4_Ex1.pdb

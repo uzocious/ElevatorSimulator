@@ -1,0 +1,99 @@
+H:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb\BookCSharpDb\bin\Debug\BookCSharpDb.exe.config
+H:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb\BookCSharpDb\obj\Debug\BookCSharpDb.csprojResolveAssemblyReference.cache
+H:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb\BookCSharpDb\obj\Debug\BookCSharpDb.Form1.resources
+H:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb\BookCSharpDb\obj\Debug\BookCSharpDb.Properties.Resources.resources
+H:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb\BookCSharpDb\obj\Debug\BookCSharpDb.csproj.GenerateResource.Cache
+H:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb\BookCSharpDb\bin\Debug\BookCSharpDb.exe
+H:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb\BookCSharpDb\bin\Debug\BookCSharpDb.pdb
+H:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb\BookCSharpDb\obj\Debug\BookCSharpDb.exe
+H:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb\BookCSharpDb\obj\Debug\BookCSharpDb.pdb
+H:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb\BookCSharpDb\bin\Debug\Database1.sdf
+E:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb\BookCSharpDb\bin\Debug\BookCSharpDb.exe.config
+E:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb\BookCSharpDb\obj\Debug\BookCSharpDb.exe
+E:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb\BookCSharpDb\obj\Debug\BookCSharpDb.pdb
+E:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb\BookCSharpDb\bin\Debug\Database1.sdf
+E:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb\BookCSharpDb\bin\Debug\BookCSharpDb.exe
+E:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb\BookCSharpDb\bin\Debug\BookCSharpDb.pdb
+E:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb\BookCSharpDb\obj\Debug\BookCSharpDb.csprojResolveAssemblyReference.cache
+E:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb\BookCSharpDb\obj\Debug\BookCSharpDb.Form1.resources
+E:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb\BookCSharpDb\obj\Debug\BookCSharpDb.Properties.Resources.resources
+E:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb\BookCSharpDb\obj\Debug\BookCSharpDb.csproj.GenerateResource.Cache
+H:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb - Copy\BookCSharpDb\bin\Debug\BookCSharpDb.exe.config
+H:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb - Copy\BookCSharpDb\obj\Debug\BookCSharpDb.exe
+H:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb - Copy\BookCSharpDb\obj\Debug\BookCSharpDb.pdb
+H:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb - Copy\BookCSharpDb\bin\Debug\Database1.sdf
+H:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb - Copy\BookCSharpDb\bin\Debug\BookCSharpDb.exe
+H:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb - Copy\BookCSharpDb\bin\Debug\BookCSharpDb.pdb
+H:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb - Copy\BookCSharpDb\obj\Debug\BookCSharpDb.csprojResolveAssemblyReference.cache
+H:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb - Copy\BookCSharpDb\obj\Debug\BookCSharpDb.Form1.resources
+H:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb - Copy\BookCSharpDb\obj\Debug\BookCSharpDb.Properties.Resources.resources
+H:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb - Copy\BookCSharpDb\obj\Debug\BookCSharpDb.csproj.GenerateResource.Cache
+H:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb - Copy - Copy\BookCSharpDb\bin\Debug\BookCSharpDb.exe.config
+H:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb - Copy - Copy\BookCSharpDb\obj\Debug\BookCSharpDb.exe
+H:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb - Copy - Copy\BookCSharpDb\obj\Debug\BookCSharpDb.pdb
+H:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb - Copy - Copy\BookCSharpDb\bin\Debug\Database1.sdf
+H:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb - Copy - Copy\BookCSharpDb\bin\Debug\BookCSharpDb.exe
+H:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb - Copy - Copy\BookCSharpDb\bin\Debug\BookCSharpDb.pdb
+H:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb - Copy - Copy\BookCSharpDb\obj\Debug\BookCSharpDb.csprojResolveAssemblyReference.cache
+H:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb - Copy - Copy\BookCSharpDb\obj\Debug\BookCSharpDb.Form1.resources
+H:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb - Copy - Copy\BookCSharpDb\obj\Debug\BookCSharpDb.Properties.Resources.resources
+H:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb - Copy - Copy\BookCSharpDb\obj\Debug\BookCSharpDb.csproj.GenerateResource.Cache
+I:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb - Copy - Copy - Copy\BookCSharpDb\bin\Debug\BookCSharpDb.exe.config
+I:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb - Copy - Copy - Copy\BookCSharpDb\obj\Debug\BookCSharpDb.exe
+I:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb - Copy - Copy - Copy\BookCSharpDb\obj\Debug\BookCSharpDb.pdb
+I:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb - Copy - Copy - Copy\BookCSharpDb\bin\Debug\Database1.sdf
+I:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb - Copy - Copy - Copy\BookCSharpDb\bin\Debug\BookCSharpDb.exe
+I:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb - Copy - Copy - Copy\BookCSharpDb\bin\Debug\BookCSharpDb.pdb
+I:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb - Copy - Copy - Copy\BookCSharpDb\obj\Debug\BookCSharpDb.csprojResolveAssemblyReference.cache
+I:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb - Copy - Copy - Copy\BookCSharpDb\obj\Debug\BookCSharpDb.Form1.resources
+I:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb - Copy - Copy - Copy\BookCSharpDb\obj\Debug\BookCSharpDb.Properties.Resources.resources
+I:\0 -OOP-C#-Visual Studio 2012\UofB\2014-2015\Possible Solutions\BookCSharpDb - Copy - Copy - Copy\BookCSharpDb\obj\Debug\BookCSharpDb.csproj.GenerateResource.Cache
+I:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb - Copy - Copy - Copy\BookCSharpDb\bin\Debug\BookCSharpDb.exe.config
+I:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb - Copy - Copy - Copy\BookCSharpDb\obj\Debug\BookCSharpDb.exe
+I:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb - Copy - Copy - Copy\BookCSharpDb\obj\Debug\BookCSharpDb.pdb
+I:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb - Copy - Copy - Copy\BookCSharpDb\bin\Debug\Database1.sdf
+I:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb - Copy - Copy - Copy\BookCSharpDb\bin\Debug\BookCSharpDb.exe
+I:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb - Copy - Copy - Copy\BookCSharpDb\bin\Debug\BookCSharpDb.pdb
+I:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb - Copy - Copy - Copy\BookCSharpDb\obj\Debug\BookCSharpDb.csprojResolveAssemblyReference.cache
+I:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb - Copy - Copy - Copy\BookCSharpDb\obj\Debug\BookCSharpDb.Form1.resources
+I:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb - Copy - Copy - Copy\BookCSharpDb\obj\Debug\BookCSharpDb.Properties.Resources.resources
+I:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb - Copy - Copy - Copy\BookCSharpDb\obj\Debug\BookCSharpDb.csproj.GenerateResource.Cache
+E:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb3\BookCSharpDb\bin\Debug\BookCSharpDb.exe.config
+E:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb3\BookCSharpDb\obj\Debug\BookCSharpDb.exe
+E:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb3\BookCSharpDb\obj\Debug\BookCSharpDb.pdb
+E:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb3\BookCSharpDb\bin\Debug\Database1.sdf
+E:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb3\BookCSharpDb\bin\Debug\BookCSharpDb.exe
+E:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb3\BookCSharpDb\bin\Debug\BookCSharpDb.pdb
+E:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb3\BookCSharpDb\obj\Debug\BookCSharpDb.csprojResolveAssemblyReference.cache
+E:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb3\BookCSharpDb\obj\Debug\BookCSharpDb.Form1.resources
+E:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb3\BookCSharpDb\obj\Debug\BookCSharpDb.Properties.Resources.resources
+E:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb3\BookCSharpDb\obj\Debug\BookCSharpDb.csproj.GenerateResource.Cache
+I:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb3\BookCSharpDb\bin\Debug\BookCSharpDb.exe.config
+I:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb3\BookCSharpDb\obj\Debug\BookCSharpDb.exe
+I:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb3\BookCSharpDb\obj\Debug\BookCSharpDb.pdb
+I:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb3 - Copy (2)\BookCSharpDb\bin\Debug\BookCSharpDb.exe.config
+I:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb3 - Copy (2)\BookCSharpDb\obj\Debug\BookCSharpDb.exe
+I:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb3 - Copy (2)\BookCSharpDb\obj\Debug\BookCSharpDb.pdb
+I:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb3 - Copy (2)\BookCSharpDb\bin\Debug\Database1.sdf
+I:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb3 - Copy (2)\BookCSharpDb\bin\Debug\BookCSharpDb.exe
+I:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb3 - Copy (2)\BookCSharpDb\bin\Debug\BookCSharpDb.pdb
+I:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb3 - Copy (2)\BookCSharpDb\obj\Debug\BookCSharpDb.csprojResolveAssemblyReference.cache
+I:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb3 - Copy (2)\BookCSharpDb\obj\Debug\BookCSharpDb.Form1.resources
+I:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb3 - Copy (2)\BookCSharpDb\obj\Debug\BookCSharpDb.Properties.Resources.resources
+I:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb3 - Copy (2)\BookCSharpDb\obj\Debug\BookCSharpDb.csproj.GenerateResource.Cache
+I:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb3 - Final\BookCSharpDb\bin\Debug\BookCSharpDb.exe.config
+I:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb3 - Final\BookCSharpDb\obj\Debug\BookCSharpDb.exe
+I:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb3 - Final\BookCSharpDb\obj\Debug\BookCSharpDb.pdb
+I:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb3 - Final\BookCSharpDb\bin\Debug\Database1.sdf
+I:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb3 - Final\BookCSharpDb\bin\Debug\BookCSharpDb.exe
+I:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb3 - Final\BookCSharpDb\bin\Debug\BookCSharpDb.pdb
+I:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb3 - Final\BookCSharpDb\obj\Debug\BookCSharpDb.csprojResolveAssemblyReference.cache
+I:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb3 - Final\BookCSharpDb\obj\Debug\BookCSharpDb.Form1.resources
+I:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb3 - Final\BookCSharpDb\obj\Debug\BookCSharpDb.Properties.Resources.resources
+I:\0 - CIS016-2 Oct 2015\Possible Solutions2\BookCSharpDb3 - Final\BookCSharpDb\obj\Debug\BookCSharpDb.csproj.GenerateResource.Cache
+C:\Users\rqiu\Downloads\Week 4\Week4_Ex1\BookCSharpDb\bin\Debug\BookCSharpDb.exe.config
+E:\Bedfordshire University\Computer Science and Software Engineering BSc (Hons)\Year 2\OO Programming\Lectures and Practicals\Week 4\Practicals\Practical Solution\Week 4(1)\Week4_Ex1\BookCSharpDb\obj\Debug\BookCSharpDb.csprojAssemblyReference.cache
+E:\Bedfordshire University\Computer Science and Software Engineering BSc (Hons)\Year 2\OO Programming\Lectures and Practicals\Week 4\Practicals\Practical Solution\Week 4(1)\Week4_Ex1\BookCSharpDb\obj\Debug\BookCSharpDb.Form1.resources
+E:\Bedfordshire University\Computer Science and Software Engineering BSc (Hons)\Year 2\OO Programming\Lectures and Practicals\Week 4\Practicals\Practical Solution\Week 4(1)\Week4_Ex1\BookCSharpDb\obj\Debug\BookCSharpDb.Properties.Resources.resources
+E:\Bedfordshire University\Computer Science and Software Engineering BSc (Hons)\Year 2\OO Programming\Lectures and Practicals\Week 4\Practicals\Practical Solution\Week 4(1)\Week4_Ex1\BookCSharpDb\obj\Debug\BookCSharpDb.csproj.GenerateResource.cache
+E:\Bedfordshire University\Computer Science and Software Engineering BSc (Hons)\Year 2\OO Programming\Lectures and Practicals\Week 4\Practicals\Practical Solution\Week 4(1)\Week4_Ex1\BookCSharpDb\obj\Debug\BookCSharpDb.csproj.CoreCompileInputs.cache
